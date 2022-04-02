@@ -36,7 +36,7 @@ extensions = [
               'sphinx.ext.ifconfig',
               'sphinx.ext.viewcode',
              'sphinx.ext.intersphinx',
-            # 'sphinxcontrib.napoleon',
+             'sphinxcontrib.napoleon',
              'sphinxcontrib.exceltable',
              'sphinxcontrib.bibtex',
              'sphinxcontrib.httpdomain',
